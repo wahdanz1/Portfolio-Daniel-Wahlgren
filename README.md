@@ -51,21 +51,20 @@ I'm always open to collaborations! If you think my skills could benefit your pro
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ## Check out my github portfolio :briefcase:
+_I'll be adding my projects here soon — stay tuned!_
+<!-- Below is a collection of repositories I have spent some extra time (_and love_) on. 
 
-Below is a collection of repositories I have spent some extra time (_and love_) on. 
-
-| repository                            | description                                                              |
+| Repository                            | Description                                                              |
 | ------------------------------------- | ------------------------------------------------------------------------ |
-| [A good, half-long repo name][url_tag]      | Blabla blablabla bla blabla bla blablabla bla            |
+| [Repository name][url_tag1]      | A description for the repository            |
 
-[url_tag]: #
-
+[url_tag1]: # -->
 
 
 ---
 
 ## Reach out :iphone:
-I’m always curious and eager to grow. Whether it's learning a new framework or solving a tricky bug, I love the process of improving and collaborating. If you think I’d be a good fit for your team or project, I’d love to hear from you!
+I’m always curious and eager to grow. Whether it's learning a new framework or solving a tricky bug, I love the process of improving and collaborating. I’m passionate about creating solutions that make a difference, and I’m excited about the opportunities ahead. If you think my skills could benefit your project, or if you just want to connect and share ideas, I’d love to hear from you!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
