@@ -31,6 +31,9 @@ I'm always open to collaborations! If you think my skills could benefit your pro
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFD700?style=for-the-badge&labelColor=000000)
+![dltHub](https://img.shields.io/badge/dltHub-00AEEF?style=for-the-badge&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,15 +53,16 @@ I'm always open to collaborations! If you think my skills could benefit your pro
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
+---
+
 ## Check out my github portfolio :briefcase:
-_I'll be adding my projects here soon — stay tuned!_
-<!-- Below is a collection of repositories I have spent some extra time (_and love_) on. 
+Below is a collection of repositories I have spent some extra time (_and love_) on. 
 
 | Repository                            | Description                                                              |
 | ------------------------------------- | ------------------------------------------------------------------------ |
-| [Repository name][url_tag1]      | A description for the repository            |
+| [sddd-template][sddd-template-tag]   | An experimental side-project with the goal to help you set up a data pipeline in no time.            |
 
-[url_tag1]: # -->
+[sddd-template-tag]: [#](https://github.com/wahdanz1/sddd-template)
 
 
 ---
