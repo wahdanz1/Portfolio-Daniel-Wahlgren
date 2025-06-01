@@ -80,5 +80,6 @@ Below is a collection of repositories I have spent some extra time (_and love_) 
 I’m always curious and eager to grow. Whether it's learning a new framework or solving a tricky bug, I love the process of improving and collaborating. I’m passionate about creating solutions that make a difference, and I’m excited about the opportunities ahead. If you think my skills could benefit your project, or if you just want to connect and share ideas, I’d love to hear from you!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wahdanz#5803/)
 
 [linkedin]: https://www.linkedin.com/in/dwahlgren/
