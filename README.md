@@ -18,9 +18,14 @@ I'm always open to collaborations! If you think my skills could benefit your pro
 | OOP grund      | Learned the basics of **object-oriented programming** (OOP): encapsulation, inheritance, polymorphism, and generics. Gained experience in error handling, console/file system, UI creation, and version control. | C#, OOP, Git
 | Databaser    | Designed, created, and managed relational databases using **SQL**. Learned data modeling, normalization, and CRUD operations. | SQL, Data Modeling
 | Agil Projektledning      | Studied **Scrum** and **Kanban**; learned to manage project structures, roles (Scrum Master, Developer, Product Owner), and team planning. | Scrum, Kanban
-| AI 1 - Python    | Developed **Python** skills, working with file handling, **NumPy**, **Pandas**, and **Matplotlib**. Focused on data cleaning, preparation, and visualization. | Python, NumPy, Pandas, Matplotlib
-| AI 2 - Data Engineering (_ongoing_)      | Studying ETL/ELT processes, data pipelines, and transformations. Learning regression, classification, clustering, and working with **Docker** and **TensorFlow**.  | Python, SQL, Docker, TensorFlow
+| AI 1 - Python    | Developed **Python** skills, working with file handling, **NumPy**, **Pandas**, and **Matplotlib**. Focused on data cleaning, preparation, and visualization, data analysis, data storytelling, dashboard and KPIs. | Python, NumPy, Pandas, Matplotlib, Plotly, Streamlit
+| AI 2 - Data Engineering (_ongoing_)      | Studying ETL/ELT processes, data pipelines, and transformations. Learning regression, classification, clustering, and working with **DLT**, **DBT Core** and **Dagster**. Learning how to use LLM's.  | Python, SQL, DLT, DuckDB, DBT, Dagster, LLM
 
+### Upcoming courses 💻  
+- **OOP avancerad 1** (HT25)
+- **LIA 1** (2025-10-13 -> 2025-12-12)
+- **OOP avancerad 2** (VT25)
+- **LIA 2** (2026-02-16 -> 2026-05-22)
 
 ## My Tech Stack (_so far_):
 
@@ -34,6 +39,10 @@ I'm always open to collaborations! If you think my skills could benefit your pro
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFD700?style=for-the-badge&labelColor=000000)
 ![dltHub](https://img.shields.io/badge/dltHub-00AEEF?style=for-the-badge&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![dagster](https://img.shields.io/badge/dagster-%231572B6.svg?style=for-the-badge)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
